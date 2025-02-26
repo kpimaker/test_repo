@@ -9,3 +9,5 @@
 - git add readme.md
 - git commit - m 'Пояснения что вы сделали в изменении'
 - git push -u origin ваша_ветка
+
+Еще какие-то правки.
